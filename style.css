@@ -1,0 +1,61 @@
+body {
+  width: 60%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+  margin: auto;
+}
+.pull-quote{
+  width: 40%;
+  display: inline-block;
+  float: left;
+  font-size: 1.5em;
+  margin-left: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: right;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  width: 65%;
+  margin: auto;
+  letter-spacing: 2pt;
+  font-size: 3em;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+h2 {
+  width: 65%;
+  margin: auto;
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.4em;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+h3 {
+  width: 65%;
+  margin: auto;
+  font-size: 0.8em;
+  line-height: 1.4em;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+p {
+  display: block;
+  width: 65%;
+  margin: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  line-height: 1.4em;
+}
